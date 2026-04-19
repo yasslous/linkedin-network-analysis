@@ -1,0 +1,133 @@
+=== ANALYSE DES VALEURS FRÉQUENTES (Apparition >= 2) ===
+
+🔹 COLONNE : EDUCATIONS_DETAILS
+educations_details
+                                             13
+university of california los angeles          3
+georgia state university                      3
+rochester institute of technology             3
+the university of texas at austin             3
+deakin university                             3
+queens university belfast                     2
+mcgill university                             2
+ecole marocaine des sciences de lingnieur     2
+jamia millia islamia                          2
+southern illinois university edwardsville     2
+kent state university                         2
+universidad nacional de colombia              2
+quinnipiac university                         2
+capilano university                           2
+bahria university                             2
+uninter centro universitrio internacional     2
+marymount university                          2
+st xaviers college                            2
+louisiana tech university                     2
+swinburne university of technology            2
+university of tennesseeknoxville              2
+clemson university                            2
+arizona state university                      2
+nottingham trent university                   2
+university of north texas                     2
+universidade de so paulo                      2
+university of southern california             2
+miami university                              2
+helwan university cairo                       2
+virtual university of pakistan                2
+middlesex university                          2
+
+----------------------------------------
+
+🔹 COLONNE : CURRENT_COMPANY_NAME
+current_company_name
+                               147
+self employed                    7
+amazon                           4
+freelance                        3
+capgemini                        3
+intel corporation                3
+the kraft heinz company          2
+paychex                          2
+bmo financial group              2
+asml                             2
+brigham and womens hospital      2
+sap                              2
+morgan stanley                   2
+medtronic                        2
+
+----------------------------------------
+
+🔹 COLONNE : INDUSTRY
+industry
+it services and it consulting                          23
+higher education                                       21
+hospitals and health care                              18
+financial services                                     17
+construction                                           16
+software development                                   12
+insurance                                              12
+retail                                                 11
+government administration                              10
+law practice                                            9
+hospital health care                                    8
+semiconductor manufacturing                             8
+truck transportation                                    7
+wellness and fitness services                           7
+information technology and services                     7
+motor vehicle manufacturing                             6
+nonprofit organizations                                 6
+hospitality                                             6
+advertising services                                    5
+technology information and internet                     5
+utilities                                               5
+banking                                                 5
+defense and space manufacturing                         5
+logistics and supply chain                              5
+wholesale                                               5
+real estate                                             5
+facilities services                                     5
+architecture and planning                               4
+education administration programs                       4
+human resources services                                4
+accounting                                              4
+computers and electronics manufacturing                 4
+travel arrangements                                     4
+internet publishing                                     4
+appliances electrical and electronics manufacturing     3
+food and beverage services                              3
+food and beverage manufacturing                         3
+medical equipment manufacturing                         3
+pharmaceuticals                                         3
+business consulting and services                        3
+manufacturing                                           3
+industrial machinery manufacturing                      3
+oil and gas                                             3
+pharmaceutical manufacturing                            3
+biotechnology research                                  3
+oil energy                                              3
+media production                                        3
+religious institutions                                  3
+machinery manufacturing                                 3
+health wellness and fitness                             2
+management consulting                                   2
+consumer services                                       2
+automation machinery manufacturing                      2
+investment management                                   2
+musicians                                               2
+individual and family services                          2
+automotive                                              2
+telecommunications                                      2
+retail luxury goods and jewelry                         2
+marketing services                                      2
+nonprofit organization management                       2
+primary and secondary education                         2
+mechanical or industrial engineering                    2
+consumer goods                                          2
+design services                                         2
+transportation logistics and storage                    2
+civil engineering                                       2
+think tanks                                             2
+furniture and home furnishings manufacturing            2
+defense space                                           2
+
+----------------------------------------
+

@@ -1,4 +1,4 @@
 Algo,Modularité,Nb Communautés,Taille Moyenne,Max Taille
-Louvain,0.2563,144,6.9,317
-Label Propagation,0.0263,157,6.4,672
-Girvan-Newman,0.0022,127,7.9,841
+Louvain,0.9377,561,1.8,31
+Label Propagation,0.9065,578,1.7,29
+Girvan-Newman,0.8955,552,1.8,86

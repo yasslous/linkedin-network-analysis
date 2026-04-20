@@ -1,0 +1,26 @@
+=== MESURES DU GRAPHE BIPARTI ===
+
+Densité globale du graphe : 0.00103
+
+=== TOP 20 DES ENTREPRISES (Degré & Centralité) ===
+                 Entreprise  Degré (Nb employés)  Centralité de Degré
+              self employed                    7                0.007
+                     amazon                    4                0.004
+                  freelance                    3                0.003
+          intel corporation                    3                0.003
+                  capgemini                    3                0.003
+        bmo financial group                    2                0.002
+                       asml                    2                0.002
+brigham and womens hospital                    2                0.002
+    the kraft heinz company                    2                0.002
+                        sap                    2                0.002
+                    paychex                    2                0.002
+             morgan stanley                    2                0.002
+                  medtronic                    2                0.002
+             collier county                    1                0.001
+  crane worldwide logistics                    1                0.001
+                   ericsson                    1                0.001
+      clear channel airport                    1                0.001
+    therapets of indianainc                    1                0.001
+   harpercollins publishers                    1                0.001
+   ecorgy solutions pvt ltd                    1                0.001

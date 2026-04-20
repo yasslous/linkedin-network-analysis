@@ -1,0 +1,30 @@
+=== ANALYSE DU RÉSEAU DES EMPLOYÉS ===
+
+Densité du réseau : 0.10429
+Coefficient de clustering moyen : 0.68308
+
+=== TOP 10 DES EMPLOYÉS PAR DEGRÉ ===
+              Nom  Degre  Centralite_Degre
+   Randy Holliday    447          0.447447
+        Mike Holt    425          0.425425
+Matthew McIlvenna    425          0.425425
+     Sonya Paxton    425          0.425425
+ Teunis Westbroek    425          0.425425
+  Pratiksha Pawar    425          0.425425
+   Carmel Donohue    425          0.425425
+       Jamar Edge    425          0.425425
+  Marian Weisburd    425          0.425425
+   Shannon Labout    425          0.425425
+
+=== TOP 10 DES EMPLOYÉS PAR BETWEENNESS CENTRALITY ===
+                                Nom  Betweenness_Centrality
+                      Gary Fallowes                0.020317
+Christina Murdzek MHS, M(ASCP), CIC                0.018691
+                     Selim Amuroglu                0.016646
+                     Randy Holliday                0.015813
+                  Carla Al Ahmadieh                0.013480
+                         Sonu Singh                0.012676
+                     Moataz Elbanna                0.012015
+                       Jiji Mathews                0.011809
+                        ‫נעה מלמד‬‎                0.010214
+                     Gaurav Rohatgi                0.009122

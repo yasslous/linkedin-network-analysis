@@ -1,30 +1,30 @@
 === ANALYSE DU RÉSEAU DES EMPLOYÉS ===
 
-Densité du réseau : 0.10429
-Coefficient de clustering moyen : 0.68308
+Densité du réseau : 0.00227
+Coefficient de clustering moyen : 0.33629
 
 === TOP 10 DES EMPLOYÉS PAR DEGRÉ ===
-              Nom  Degre  Centralite_Degre
-   Randy Holliday    447          0.447447
-        Mike Holt    425          0.425425
-Matthew McIlvenna    425          0.425425
-     Sonya Paxton    425          0.425425
- Teunis Westbroek    425          0.425425
-  Pratiksha Pawar    425          0.425425
-   Carmel Donohue    425          0.425425
-       Jamar Edge    425          0.425425
-  Marian Weisburd    425          0.425425
-   Shannon Labout    425          0.425425
+               Nom  Degre  Centralite_Degre
+       Nash Sherry     21          0.021021
+     Scott Goodwin     21          0.021021
+        Crystal J.     17          0.017017
+     Daniel Murphy     16          0.016016
+        Jamar Edge     15          0.015015
+David Rodriguez Jr     15          0.015015
+ Matthew McIlvenna     15          0.015015
+         Mike Holt     15          0.015015
+   Marian Weisburd     15          0.015015
+        Zach Breen     15          0.015015
 
 === TOP 10 DES EMPLOYÉS PAR BETWEENNESS CENTRALITY ===
-                                Nom  Betweenness_Centrality
-                      Gary Fallowes                0.020317
-Christina Murdzek MHS, M(ASCP), CIC                0.018691
-                     Selim Amuroglu                0.016646
-                     Randy Holliday                0.015813
-                  Carla Al Ahmadieh                0.013480
-                         Sonu Singh                0.012676
-                     Moataz Elbanna                0.012015
-                       Jiji Mathews                0.011809
-                        ‫נעה מלמד‬‎                0.010214
-                     Gaurav Rohatgi                0.009122
+                         Nom  Betweenness_Centrality
+              Douglas Beales                0.005352
+               Ellen O'Neill                0.005296
+  Jennifer Liesener, SHRM-CP                0.004700
+        Christopher Hastings                0.004453
+             Modesto Jimenez                0.004068
+                  Laura Tebo                0.003737
+               Satish Chavan                0.003657
+              Kaitlin Tunney                0.003619
+                  Ravi Pawar                0.003611
+Steven Ross, CHMM, CEM, CFPS                0.003496

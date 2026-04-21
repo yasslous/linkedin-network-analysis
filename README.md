@@ -1,5 +1,7 @@
-🚀 LinkedIn Link Prediction & Community Analysis
+🚀 LinkedIn Link Prediction & Community Analysis 
+
 📌 Description Générale
+
 Ce projet explore la structure des réseaux professionnels à partir de données extraites de LinkedIn. L'objectif est double : d'une part, cartographier les communautés d'employés partageant des caractéristiques communes, et d'autre part, prédire les opportunités de carrière (Link Prediction) en identifiant quelles entreprises correspondent le mieux au profil d'un employé donné.
 
 📊 Les Données

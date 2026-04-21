@@ -1,30 +1,30 @@
 === ANALYSE DU RÉSEAU DES EMPLOYÉS ===
 
-Densité du réseau : 0.00227
-Coefficient de clustering moyen : 0.33629
+Densité du réseau : 0.14500
+Coefficient de clustering moyen : 0.88741
 
 === TOP 10 DES EMPLOYÉS PAR DEGRÉ ===
-               Nom  Degre  Centralite_Degre
-       Nash Sherry     21          0.021021
-     Scott Goodwin     21          0.021021
-        Crystal J.     17          0.017017
-     Daniel Murphy     16          0.016016
-        Jamar Edge     15          0.015015
-David Rodriguez Jr     15          0.015015
- Matthew McIlvenna     15          0.015015
-         Mike Holt     15          0.015015
-   Marian Weisburd     15          0.015015
-        Zach Breen     15          0.015015
+                        Nom  Degre  Centralite_Degre
+         Alexandra Goldfarb    370          0.370370
+             Stephen Masluk    370          0.370370
+               Austin Lipps    370          0.370370
+              Satish Chavan    370          0.370370
+                 Nick Ramos    370          0.370370
+Gokulakrishnan Jayakrishnan    370          0.370370
+                  janny joe    370          0.370370
+                Sean Sisson    370          0.370370
+Michelle Ehrhardt, MA, CPCS    366          0.366366
+            Prateek Chitpur    366          0.366366
 
 === TOP 10 DES EMPLOYÉS PAR BETWEENNESS CENTRALITY ===
-                         Nom  Betweenness_Centrality
-              Douglas Beales                0.005352
-               Ellen O'Neill                0.005296
-  Jennifer Liesener, SHRM-CP                0.004700
-        Christopher Hastings                0.004453
-             Modesto Jimenez                0.004068
-                  Laura Tebo                0.003737
-               Satish Chavan                0.003657
-              Kaitlin Tunney                0.003619
-                  Ravi Pawar                0.003611
-Steven Ross, CHMM, CEM, CFPS                0.003496
+                  Nom  Betweenness_Centrality
+        Simon Scherer                0.052725
+        Sherry Strole                0.027027
+       Quenten Thomas                0.027027
+          Andy Ambrus                0.024420
+       Silvia Larroca                0.020878
+      Bagus Satya Mas                0.019477
+         Julien Petit                0.018624
+           Rahmi Ayaz                0.017447
+  Nikoletta Zosimidou                0.017412
+Juan Sebastian Suarez                0.017110

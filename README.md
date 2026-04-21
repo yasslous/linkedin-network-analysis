@@ -35,7 +35,7 @@ Machine Learning : Utilisation de la Régression Logistique pour prédire la pro
 📂 Organisation du Projet
 Le projet est découpé en notebooks progressifs pour une lecture fluide :
 
-01_nettoyage_donnees.ipynb : Préparation et nettoyage des données LinkedIn (gestion des doublons, formatage).
+01_nettoyage_donnees.ipynb : Préparation et nettoyage des données LinkedIn.
 
 02_graphe_biparti.ipynb : Construction du graphe biparti Employés ↔ Entreprises et analyse des premières statistiques du réseau.
 
